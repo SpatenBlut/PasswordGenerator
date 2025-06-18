@@ -42,6 +42,7 @@ void UI() {
         }
         else {
             exit(0);
+
         }
     }
 }

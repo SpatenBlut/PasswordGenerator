@@ -6,7 +6,6 @@
 #include <windows.h>
 using namespace std;
 
-
 void UI();
 
 #endif // UI_H
