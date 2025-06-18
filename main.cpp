@@ -30,9 +30,9 @@ int main()
         char choice;
         int PasswortLength;
         int user_input;
-        cout << "1-Generate a random Password\n";
-        cout << "2-Quit the Programm\n";
-        cout << "  Choice: ";
+        cout << "1---Generate a random Password\n";
+        cout << "2---Quit the Programm\n";
+        cout << "    Choice: ";
         cin >> choice;
         system("cls");
 
