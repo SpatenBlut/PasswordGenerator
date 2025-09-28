@@ -36,13 +36,11 @@ void UI() {
 
             string random_string = generateRandomString(PasswortLength);
             cout << "Random Passwort: " << random_string << "\n";
-            cout << "Press 1:   ";
-            cin  >> user_input;
+            cin.get();
             system("cls");
         }
         else {
             exit(0);
-
         }
     }
 }
